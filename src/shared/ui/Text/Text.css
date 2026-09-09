@@ -10,3 +10,30 @@
   font-weight: 400;
   font-style: normal;
 }
+
+.secondary {
+  color: #656873;
+  font-family: "Sora", system-ui, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: normal;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.black {
+  color: var(--color-ink);
+}
+.blue {
+  color: var(--color-electric);
+}
+.red {
+  color: var(--color-coral);
+}
+.white {
+  color: var(--color-white);
+}
+.yellow {
+  color: var(--color-warm-yellow);
+}
