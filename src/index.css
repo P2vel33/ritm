@@ -1,0 +1,18 @@
+:root {
+  --color-ink: #111217;
+  --color-electric: #2457ff;
+  --color-warm-yellow: #ffd43b;
+  --color-coral: #ff6b57;
+  --color-signal: #67f0a5;
+  --color-canvas: #f6f3e9;
+  --color-blue-soft: #dde5ff;
+  --color-yellow-soft: #fff2b5;
+  --color-coral-soft: #ffe0da;
+  --color-signal-soft: #d9fbe8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
