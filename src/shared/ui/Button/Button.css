@@ -1,0 +1,18 @@
+.button {
+  color: var(--text-primary);
+  padding: 12px 16px;
+}
+.primary {
+  background-color: var(--color-electric);
+  color: var(--text-secondary);
+}
+.secondary {
+  background-color: var(--bg-yellow);
+}
+.danger {
+  background-color: var(--color-coral);
+  color: var(--text-secondary);
+}
+.neutral {
+  background-color: var(--bg-primary);
+}

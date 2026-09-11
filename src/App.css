@@ -1,0 +1,30 @@
+* {
+  transition: all 0.3s;
+}
+
+.offset {
+  box-shadow: 4px 4px 0px 0px var(--bg-black);
+}
+
+*:focus {
+  outline: 3px solid #8a38f5;
+  border: none;
+  box-shadow: none;
+  transition: all 0.3s;
+}
+
+.border {
+  border: 2px solid var(--bg-black);
+}
+.raduis-12 {
+  border-radius: 12px;
+}
+.raduis-4 {
+  border-radius: 4px;
+}
+.raduis-8 {
+  border-radius: 8px;
+}
+.raduis-16 {
+  border-radius: 16px;
+}

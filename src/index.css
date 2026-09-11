@@ -10,6 +10,20 @@
   --color-yellow-soft: #fff2b5;
   --color-coral-soft: #ffe0da;
   --color-signal-soft: #d9fbe8;
+
+  --text-primary: var(--color-ink);
+  --text-secondary: var(--color-white);
+  --text-blue: var(--color-electric);
+  --text-yellow: var(--color-warm-yellow);
+  --text-danger: var(--color-coral);
+  --text-success: var(--color-signal);
+
+  --bg-primary: var(--color-canvas);
+  --bg-black: var(--color-ink);
+  --bg-blue: var(--color-blue-soft);
+  --bg-yellow: var(--color-yellow-soft);
+  --bg-danger: var(--color-coral-soft);
+  --bg-success: var(--color-signal-soft);
 }
 
 * {
